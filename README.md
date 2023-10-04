@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bernard Yamoah</h1>
-<h3 align="center">A passionate frontend developer from Ghana 🇬🇭</h3>
+<h3 align="center">A passionate frontend developer from Ghana</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bernardyamoah&label=Profile%20views&color=00ff00&style=plastic" alt="bernardyamoah" /> </p>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/byayamoah" target="blank"><img src="https://img.shields.io/twitter/follow/byayamoah?logo=twitter&style=for-the-badge" alt="byayamoah" /></a> </p>
 
-- 🔭 I’m currently working on [SlidesHub](https://slideshub.netlify.app/)
+- 🔭 I’m currently working on [SlidesHub](https://slideshub.vercel.app/)
 
 - 🌱 I’m currently learning **Tailwind Css and Javascript**
 
