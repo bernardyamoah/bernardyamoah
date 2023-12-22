@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bernard Yamoah</h1>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/bernardyamoah/bernardyamoah/blob/master/devcard.svg" width="400" alt="Bernard Yamoah's Dev Card"/></a>
 <h3 align="center">A passionate frontend developer from Ghana</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bernardyamoah&label=Profile%20views&color=00ff00&style=plastic" alt="bernardyamoah" /> </p>
