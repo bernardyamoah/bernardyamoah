@@ -20,8 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-[![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/328300895232065567)
-          <a href="https://dev.to/@bernardyamoah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@bernardyamoah" height="30" width="40" /></a>
+<a href="https://dev.to/@bernardyamoah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@bernardyamoah" height="30" width="40" /></a>
 <a href="https://twitter.com/byayamoah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="byayamoah" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/bernard-yamoah-971386132" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bernard-yamoah-971386132" height="30" width="40" /></a>
 <a href="https://instagram.com/be_r_n_ard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="be_r_n_ard" height="30" width="40" /></a>
@@ -41,5 +40,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bernardyamoah&show_icons=true&locale=en&layout=compact" alt="bernardyamoah" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bernardyamoah&show_icons=true&locale=en" alt="bernardyamoah" /></p>
-
+<p>
+   [![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/: 328300895232065567)      
+</p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bernardyamoah&" alt="bernardyamoah" /></p>
