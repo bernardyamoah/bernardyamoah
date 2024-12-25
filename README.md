@@ -40,7 +40,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bernardyamoah&show_icons=true&locale=en&layout=compact" alt="bernardyamoah" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bernardyamoah&show_icons=true&locale=en" alt="bernardyamoah" /></p>
-<p>
-   [![Discord Presence](https://lanyard.cnrad.dev/api/328300895232065567)](https://discord.com/users/328300895232065567)      
-</p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bernardyamoah&" alt="bernardyamoah" /></p>
