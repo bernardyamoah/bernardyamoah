@@ -8,10 +8,6 @@
 
 <p align="left"> <a href="https://twitter.com/byayamoah" target="blank"><img src="https://img.shields.io/twitter/follow/byayamoah?logo=twitter&style=for-the-badge" alt="byayamoah" /></a> </p>
 
-- 🔭 I’m currently working on [SlidesHub](https://slideshub.vercel.app/)
-
-- 🌱 I’m currently learning **Tailwind Css and Javascript**
-
 - 📫 How to reach me **bernardyamoah2016@gmail.com**
 
 ### Blogs posts
