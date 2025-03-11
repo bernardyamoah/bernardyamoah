@@ -19,9 +19,7 @@
 
 ### 🌐 Connect with me:
 <p align="left">
-  <a href="https://dev.to/@bernardyamoah" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@bernardyamoah" height="30" width="40" />
-  </a>
+
   <a href="https://twitter.com/byayamoah" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="byayamoah" height="30" width="40" />
   </a>
@@ -30,9 +28,6 @@
   </a>
   <a href="https://instagram.com/be_r_n_ard" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="be_r_n_ard" height="30" width="40" />
-  </a>
-  <a href="https://medium.com/@bernardyamoah2016" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@bernardyamoah2016" height="30" width="40" />
   </a>
 </p>
 
