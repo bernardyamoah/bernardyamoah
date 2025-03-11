@@ -57,9 +57,9 @@
 
 ### 📊 GitHub Stats
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bernardyamoah&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="350" />
-  <img src="https://github-readme-stats.vercel.app/api?username=bernardyamoah&show_icons=true&locale=en" alt="GitHub Stats" width="350" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bernardyamoah&" alt="GitHub Streak" width="350" />
+ ![bernardyamoah's Stats](https://github-readme-stats.vercel.app/api?username=bernardyamoah&theme=radical&show_icons=true&hide_border=false&count_private=true)
+![bernardyamoah's Streak](https://github-readme-streak-stats.herokuapp.com/?user=bernardyamoah&theme=radical&hide_border=false)
+  ![bernardyamoah's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bernardyamoah&theme=radical&show_icons=true&hide_border=false&layout=compact)
 </div>
 
 ---
