@@ -12,8 +12,6 @@
 - 💻 Experienced in **Next.js, TypeScript, React, Tailwind CSS, Zustand, Framer Motion, and ShadCN UI**. 
 - 🌍 Passionate about **community building, AI, and mental health tech**.
 - 🏗️ Creator of **SlidesHub**, an e-library for students.
-- 📖 On a mission to read **at least one book a month** in 2025.
-- ❤️ Building a **Christ-centered life and relationships**.
 
 ---
 
