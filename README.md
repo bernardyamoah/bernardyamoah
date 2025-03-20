@@ -74,4 +74,4 @@
 
 🔥 **Let's connect and build something great together!** 🚀
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/328300895232065567)](https://discord.com/users/328300895232065567)
+
