@@ -9,8 +9,6 @@
 
 ### 💡 About Me
 - 🚀 Frontend Engineer at **Gigsama**, building scalable and impactful digital solutions. 
-- 💻 Experienced in **Next.js, TypeScript, React, Tailwind CSS, Zustand, Framer Motion, and ShadCN UI**. 
-- 🌍 Passionate about **community building, AI, and mental health tech**.
 - 🏗️ Creator of **SlidesHub**, an e-library for students.
 
 ---
@@ -59,16 +57,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=bernardyamoah&show_icons=true&locale=en" alt="GitHub Stats" width="350" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bernardyamoah&" alt="GitHub Streak" width="350" />
 </div>
-
----
-
-
-
-### 🎯 Goals for 2025
-- 🛠️ Build more open-source projects
-- 📚 Read at least **one book per month**
-- 🚀 Explore AI-powered frontend innovations
-- 🌍 Contribute to tech communities & mentoring
 
 ---
 
