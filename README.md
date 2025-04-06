@@ -9,13 +9,6 @@
 
 ### 💡 About Me
 - 🚀 Frontend Engineer at **Gigsama**, building scalable and impactful digital solutions. 
-- 🏗️ Creator of **SlidesHub**, an e-library for students.
-
----
-
-### 📫 How to reach me
-**Email**: [bernardyamoah2016@gmail.com](mailto:bernardyamoah2016@gmail.com)
-
 ---
 
 ### 🌐 Connect with me:
@@ -61,5 +54,3 @@
 ---
 
 🔥 **Let's connect and build something great together!** 🚀
-
-
