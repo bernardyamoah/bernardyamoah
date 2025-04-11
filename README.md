@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bernard Yamoah</h1>
 <p align="center">A passionate Frontend Engineer, optimist, and community builder dedicated to crafting intuitive and scalable web applications.</p>
 
-<a href="https://app.daily.dev/DailyDevTips">
-  <img src="https://github.com/bernardyamoah/bernardyamoah/blob/main/devcard.svg" width="400" alt="Bernard Yamoah's Dev Card"/>
-</a>
+<a href="https://app.daily.dev/bernardyamoah"><img src="https://api.daily.dev/devcards/v2/jVxQsNXkki4RxkPFaMK8B.png?type=default&r=gr0" width="356" alt="Bernard Yamoah's Dev Card"/></a>
 
 ---
 
@@ -52,5 +50,3 @@
 </div>
 
 ---
-
-🔥 **Let's connect and build something great together!** 🚀
