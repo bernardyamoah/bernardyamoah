@@ -46,7 +46,7 @@
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bernardyamoah&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="350" />
   <img src="https://github-readme-stats.vercel.app/api?username=bernardyamoah&show_icons=true&locale=en" alt="GitHub Stats" width="350" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bernardyamoah&" alt="GitHub Streak" width="350" />
+  <!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=bernardyamoah&" alt="GitHub Streak" width="350" />-->
 </div>
 
 ---
